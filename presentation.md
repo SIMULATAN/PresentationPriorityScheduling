@@ -5,7 +5,7 @@ class: invert
 ---
 
 # Priority Scheduling
-A presentation by Jakob H. and Laurin P.
+A presentation by Jakob H., Laurin and Isabel
 
 ---
 
@@ -36,7 +36,7 @@ Assumption: lower number = higher priority
 |Process|Burst Time|Priority
 |----|----|----|
 |P1|10|3|
-|P2|1|1|
+|P4|1|5|
 |P5|5|2|
 
 ---
